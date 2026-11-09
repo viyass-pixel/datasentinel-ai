@@ -46,7 +46,7 @@ Data analysts and engineers currently identify these issues through manual spot-
 - [x] **Phase 2:** Database & Analytical Query Engine *(Completed)*
 - [x] **Phase 3:** Profiling & Rule-Based Data Quality Engine *(Completed)*
 - [x] **Phase 4:** ML Anomaly & Distribution Drift Detection *(Completed)*
-- [ ] **Phase 5:** Safe Read-Only Text-to-SQL Copilot
-- [ ] **Phase 6:** Root Cause Analysis (RCA) Engine
+- [x] **Phase 5:** Safe Read-Only Text-to-SQL Copilot *(Completed)*
+- [x] **Phase 6:** Root Cause Analysis (RCA) Engine *(Completed)*
 - [ ] **Phase 7:** FastAPI Endpoints & Streamlit Dashboard
 - [ ] **Phase 8:** CI/CD, Test Suite, and Docker Packaging
