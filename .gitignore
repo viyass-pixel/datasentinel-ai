@@ -28,3 +28,4 @@ data/sample/*
 .idea/
 .DS_Store
 Thumbs.db
+*.db
